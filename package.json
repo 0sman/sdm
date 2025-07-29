@@ -28,12 +28,12 @@
     "node-cache": "^5.1.2"
   },
   "peerDependencies": {
-    "@sap/cds": ">=8"
+    "@sap/cds": "^9"
   },
   "devDependencies": {
-    "@cap-js/sqlite": "^1",
+    "@cap-js/sqlite": "^2",
     "@eslint/js": "^9.4.0",
-    "@sap/cds-dk": "^8.1.2",
+    "@sap/cds-dk": "^9",
     "eslint": "^9.4.0",
     "eslint-plugin-jest": "^28.5.0",
     "globals": "^15.3.0",
