@@ -18,5 +18,4 @@ annotate Attachments with @UI:{
 } {
   content
     @Core.ContentDisposition: { Filename: filename }
-    @Core.Immutable
 }
